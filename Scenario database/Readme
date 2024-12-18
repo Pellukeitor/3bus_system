@@ -1,0 +1,2 @@
+Power system data for 2040 (general data), Hourly data (min-max capacity etc) & Scenario database 
+(dictionaries saved as .pkl & .json that show the different scenarios each hour, MC binary data (.py) shows if there are more than 1 scenario in each hour):
